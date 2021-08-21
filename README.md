@@ -1,4 +1,4 @@
-### oi, eu sou a letícia :)
+### letícia rosemberg :)
 
 - 🌱 Estudando: Python, C++, HTML, CSS, JavaScript;
 
