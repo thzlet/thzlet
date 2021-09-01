@@ -14,7 +14,6 @@
   <img align="center" alt="Let-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Let-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Let-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="let:hin" height="140" width="140" src="https://data.whicdn.com/images/354368344/original.jpg?t=1617129802">
 </div>
   
 ##
