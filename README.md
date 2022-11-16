@@ -1,6 +1,6 @@
 ### letícia rosemberg :)
 
-> 🌱 Estudando: Python, C++, HTML, CSS, JavaScript;
+> 🌱 Studying: Python, C++, HTML, CSS, JavaScript;
 
 <div>
   <a href="https://github.com/leticiarosemberg">
