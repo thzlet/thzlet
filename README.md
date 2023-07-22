@@ -1,6 +1,6 @@
-### Hello, world! :)
+### hello, world! :)
 
-> 🌱 Studying: Python, C++, HTML, CSS, JavaScript;
+> 🌊🦋 studying: python, c++, html, css, javascript;
 
 <div>
   <a href="https://github.com/thzlet">
@@ -17,7 +17,7 @@
 </div>
   
 ##
-  
+
 <div>
    <a href="https://discord.gg/hKRCBvJAgA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
    <a href="https://instagram.com/thzlet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
