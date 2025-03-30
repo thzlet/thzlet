@@ -21,7 +21,7 @@
 ##
 
 <div>
-   <a href="https://discord.gg/AkPJ598c" target="_blank"><img src="https://img.shields.io/badge/Discord-836FFF?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+   <a href="https://discord.gg/VBY7DYJr" target="_blank"><img src="https://img.shields.io/badge/Discord-836FFF?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
    <a href="https://instagram.com/thzlet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6959CD?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://replit.com/@thzlet" target="_blank"><img src="https://img.shields.io/badge/-Replit-483D8B?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>     
 </div>
