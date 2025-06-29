@@ -1,8 +1,8 @@
 ### print('hello, world!')
 
-> 🐬 studying: C, C++, python, html and css;
+> 🐬 hi, i'm leticia and i'm graduating in computer science at the federal institute of technology in brazil :) (pt / en)
 
-> 🐍 python enthusiast;
+> 🐍 really like python but trying out C ;)
 
 <div>
   <a href="https://github.com/thzlet">
