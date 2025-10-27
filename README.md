@@ -2,7 +2,7 @@
 
 > 🐬 hi, i'm leticia and i'm graduating in computer science at the federal institute of technology in brazil :) (pt / en)
 
-> 🐍 totally into python but trying out C ;)
+> 🐍 totally into python and software engineering ;)
 
 <div>
   <a href="https://github.com/thzlet">
