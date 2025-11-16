@@ -1,8 +1,8 @@
 ### print('hello, world!')
 
-> ❤︎ hey, i'm leticia and i'm graduating in computer science :) (pt / en)
+> ❤︎ i'm leticia and i'm graduating in computer science :) (pt / en)
 
-> ❤︎ totally into python and software engineering ;)
+> ❤︎ into python and software engineering ;)
 
 <div>
   <a href="https://github.com/thzlet">
