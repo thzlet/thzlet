@@ -41,8 +41,6 @@ hi there! i'm **Letícia**, a Computer Science undergraduate passionate about bu
 
 </div>
 
----
-
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </div>
