@@ -12,9 +12,11 @@ print("hello, world! I'm letícia!")
 I'm a computer science student, passionate about building solutions through code.  
 I'm especially interested in:
 - Software Engineering principles  
-- Backend development  
+- Backend development
+- Distributed Database Management System (DDBMS)
 - Python applications  
-- Data structures & algorithms  
+- Data structures & algorithms
+- Agile Methodologies/Software Development
 - Educational and social impact tech projects  
 
 ---
