@@ -4,7 +4,7 @@
 print("hey! I'm Letícia 👩‍💻")
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Backend+%26+Python+Developer;Frontend+Developer;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Developer;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@ hi there! i'm **Letícia**, a Computer Science undergraduate passionate about bu
 - 🎓 **CS Undergrad** — diving deep into software engineering & systems
 - 🔧 Focused on **backend development** and **clean architecture**
 - 🗄️ Interested in **Distributed Database Management Systems (DDBMS)**
-- 📐 Fan of **data structures, algorithms, and agile methodologies**
+- 📐 Fan of **algorithms and agile methodologies**
 - 💡 Believer in tech for **education and social impact**
 - 🌎 **Languages:** Portuguese (native) · English · Spanish
 
