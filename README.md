@@ -4,7 +4,7 @@
 print("hey! I'm Letícia 👩‍💻")
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Developer;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-stack+Developer;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@ print("hey! I'm Letícia 👩‍💻")
 
 ## 👩‍💻 About Me
 
-hi there! i'm **Letícia**, a Computer Science undergraduate passionate about building solutions through code. I love exploring how technology can create real-world impact, from distributed systems to educational tools.
+Hi there! I'm **Letícia**, a Computer Science undergraduate passionate about building solutions through code. I love exploring how technology can create real-world impact, from distributed systems to educational tools.
 
 - 🎓 **CS Undergrad** — diving deep into software engineering & systems
-- 🔧 Focused on **backend development** and **clean architecture**
+- 🔧 Focused on **Full-stack Development** and **Clean Architecture**
 - 🗄️ Interested in **Distributed Database Management Systems (DDBMS)**
-- 📐 Fan of **algorithms and agile methodologies**
-- 💡 Believer in tech for **education and social impact**
+- 📐 Fan of **Algorithms and Agile Methodologies**
+- 💡 Believer in tech for **Education and Social Impact**
 - 🌎 **Languages:** Portuguese (native) · English · Spanish
 
 ---
