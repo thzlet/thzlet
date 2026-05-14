@@ -15,7 +15,7 @@ print("hey! I'm Letícia 👩‍💻")
 Hi there! I'm **Letícia**, a Computer Science undergraduate passionate about building solutions through code. I love exploring how technology can create real-world impact, from distributed systems to educational tools.
 
 - 🎓 **CS Undergrad** — diving deep into software engineering & AI
-- 🔧 Focused on **Full-stack Development** and **Clean Architecture**
+- 🔧 Focused on **Full-stack Development** 
 - 🗄️ Interested in **Distributed Database Management Systems (DDBMS)**
 - 📐 Fan of **Algorithms and Agile Methodologies**
 - 💡 Believer in tech for **Education and Social Impact**
