@@ -14,7 +14,7 @@ print("hey! I'm Letícia 👩‍💻")
 
 Hi there! I'm **Letícia**, a Computer Science undergraduate passionate about building solutions through code. I love exploring how technology can create real-world impact, from distributed systems to educational tools.
 
-- 🎓 **CS Undergrad** — diving deep into software engineering & systems
+- 🎓 **CS Undergrad** — diving deep into software engineering & AI
 - 🔧 Focused on **Full-stack Development** and **Clean Architecture**
 - 🗄️ Interested in **Distributed Database Management Systems (DDBMS)**
 - 📐 Fan of **Algorithms and Agile Methodologies**
@@ -35,6 +35,10 @@ Hi there! I'm **Letícia**, a Computer Science undergraduate passionate about bu
   <img height="32" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="32" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="32" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img height="32" title="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img height="32" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+  <img height="32" title="ChromaDB" src="https://avatars.githubusercontent.com/u/107408163?s=200&v=4">
+  <img height="32" title="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
 </div>
 
 ---
