@@ -1,10 +1,10 @@
 <div align="center">
 
 ```python
-print("hey! I'm Letícia 👩‍💻")
+print("hello, world! i'm letícia 👩‍💻")
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-stack+Developer;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Researcher;Full-stack+Development;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ Hi there! I'm **Letícia**, a Computer Science undergraduate passionate about bu
 - 🔧 Focused on **Full-stack Development** 
 - 🗄️ Interested in **Distributed Database Management Systems (DDBMS)**
 - 📐 Fan of **Algorithms and Agile Methodologies**
-- 💡 Believer in tech for **Education and Social Impact**
+- 💡 AI **Researcher**
 - 🌎 **Languages:** Portuguese (native) · English · Spanish
 
 ---
