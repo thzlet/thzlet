@@ -4,47 +4,34 @@
 print("hello, world! i'm letícia 👩‍💻")
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Researcher;Full-stack+Development;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Computational+Genomics+Researcher;AI+Researcher;Full-stack+Development;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-## 👩‍💻 About Me
-
-Hi there! I'm **Letícia**, a Computer Science undergraduate passionate about building solutions through code. I love exploring how technology can create real-world impact, from distributed systems to educational tools.
-
-- 🎓 **CS Undergrad** 
-- 🔧 **Full-stack Development** 
-- 🗄️ Interested in **Computational Biology**
-- 📐 Fan of **Algorithms and Agile Methodologies**
-- 💡 AI **Researcher**
-- 🌎 **Languages:** Portuguese (native) · English · Spanish
-
+### 🔬 About Me
+ 
+hey, there, i'm **letícia**, a Computer Science undergraduate. I'm currently researching computational methods for tackling *viral dark matter* — viral sequences that don't match anything in known databases.
+ 
+- 🧬 Researching **Computational Genomics** and **Viral Metagenomics**
+- 📄 Working on classification methods for divergent viral sequences in metagenomic data
+- 📊 Interested in **Data Analysis** and **Algorithms**
+- 🤖 Exploring **AI Agents** and **Machine Learning**
+- 🎓 Computer Science Undergraduate
+- 🌐 Languages: Portuguese (native) · English · Spanish
 ---
-
-## 🛠️ Tech Stack
-
-<div>
-  <img height="32" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="32" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img height="32" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="32" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="32" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="32" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="32" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="32" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="32" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img height="32" title="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img height="32" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-  <img height="32" title="ChromaDB" src="https://avatars.githubusercontent.com/u/107408163?s=200&v=4">
-  <img height="32" title="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
-</div>
-
----
-
-</div>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</div>
+ 
+### 🛠️ Tech Stack
+ 
+<p>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="32" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="32" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" />
+  <img src="https://cdn.simpleicons.org/node.js/339933" height="32" />
+</p>
