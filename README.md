@@ -11,7 +11,7 @@ print("hello, world! i'm letícia 👩‍💻")
 ---
 ### 🔬 About Me
  
-hey, there, i'm **letícia**, a Computer Science undergraduate. I'm currently researching computational methods for tackling *viral dark matter* — viral sequences that don't match anything in known databases.
+hey, there, i'm **letícia**, a computer science undergraduate and i'm currently researching computational methods for tackling *viral dark matter* — viral sequences that don't match anything in known databases.
  
 - 🧬 Researching **Computational Genomics** and **Viral Metagenomics**
 - 📄 Working on classification methods for divergent viral sequences in metagenomic data
