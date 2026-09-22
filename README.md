@@ -1,7 +1,7 @@
 <div align="center">
 
 ```python
-print("hello, world! i'm letícia 👩‍💻")
+print("hello, world! i'm letícia :)")
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Computational+Genomics+Researcher;AI+Researcher;Full-stack+Development;Software+Engeneering;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -9,19 +9,19 @@ print("hello, world! i'm letícia 👩‍💻")
 </div>
 
 ---
-### 🔬 About Me
+### about me !! :)
  
 hey, there, i'm **letícia**, a computer science undergraduate and i'm currently researching computational methods for tackling *viral dark matter* — viral sequences that don't match anything in known databases.
  
-- 🧬 Researching **Computational Genomics** and **Viral Metagenomics**
-- 📄 Working on classification methods for divergent viral sequences in metagenomic data
-- 📊 Interested in **Data Analysis** and **Algorithms**
-- 🤖 Exploring **AI Agents** and **Machine Learning**
-- 🎓 Computer Science Undergraduate
-- 🌐 Languages: Portuguese (native) · English · Spanish
+- 🧬 researching **computational genomics** and **viral metagenomics**
+- 📄 working on classification methods for divergent viral sequences in metagenomic data
+- 📊 interested in **data analysis** and **algorithms**
+- 🤖 exploring **AI agents** and **machine learning**
+- 🎓 computer science Undergraduate
+- 🌐 languages: portuguese (native) · english (advanced) · spanish
 ---
  
-### 🛠️ Tech Stack
+### 🛠️ tech stack
  
 <p>
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" />
