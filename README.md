@@ -9,15 +9,16 @@ print("hello, world! i'm letícia :)")
 </div>
 
 ---
-### about me !! :)
+### print("hello, world!")
  
 hey, there, i'm **letícia**, a computer science undergraduate and i'm currently researching computational methods for tackling *viral dark matter* — viral sequences that don't match anything in known databases.
  
 - 🧬 researching **computational genomics** and **viral metagenomics**
 - 📄 working on classification methods for divergent viral sequences in metagenomic data
 - 📊 interested in **data analysis** and **algorithms**
-- 🤖 exploring **AI agents** and **machine learning**
-- 🎓 computer science Undergraduate
+- 🤖 exploring **ai agents** and **machine learning**
+- 🎓 computer science undergraduate
+- 🌟 tutor at kodland brazil
 - 🌐 languages: portuguese (native) · english (advanced) · spanish
 ---
  
